@@ -14,7 +14,7 @@ Een electronische fakkel voor een fakkeloptocht.
   * https://www.amazon.nl/dp/B07KT1H481
   * https://www.tinytronics.nl/shop/nl/diversen/led-matrix/ws2812b-digitale-5050-rgb-led-matrix-32x8-flexibel
 * Powerbank met USB aansluiting
-* USB kabel die past oip de Arduino micro of nano
+* USB kabel die past op de Arduino micro of nano
 
 * Soldeergereedschap (soldeerbout met medium of kleine punt en soldeer)
 * ducttape
@@ -32,7 +32,7 @@ Soldeer de net verkregen connector aan de Arduino:
 
 Soldeer eventueel de elektrolytische condensator op de losse rode en witte of rode en zwarte draad die van het scherm afkomt (in de afbeelding "Increase Voltage Wire genoemd). 
 
-LET OP, de condensator heeft een witte streepo of aanduiding die de negatieve kant aangeeft. Deze dient op de witte of zwarte draad aangesloten te worden, de andere kant van de condensator is voor de rode draad. Controleer of je de polariteit goed hebt aangesloten en isoleer de aansluitingen met ducttape.
+LET OP, de condensator heeft een witte streep of aanduiding die de negatieve kant aangeeft. Deze dient op de witte of zwarte draad aangesloten te worden, de andere kant van de condensator is voor de rode draad. Controleer of je de polariteit goed hebt aangesloten en isoleer de aansluitingen met ducttape.
 
 Sluit de Arduino aan op de computer en upload de sketch (fakkel.ino).
 
