@@ -39,3 +39,5 @@ Sluit de Arduino aan op de computer en upload de sketch (fakkel.ino).
 Maak van het scherm een rolletje (niet te strak) en plak met ducttape eventueel de arduino en de condensator aan de binnenkant vast. Een deel van het scherm zal hierdoor niet zichtbaar zijn maar dat maakt niet uit voor het effect. Bind tussen de lEDs een touwtje of draadje zodat het scherm een rolletje blijft.
 
 Plak het geheel met ducttape vast op een (bamboe)stokje. Zorg dat de stok niet te zwaar of stevig is om inbeslagname te voorkomen anders kunnen de instanties de stok zien als een slagwapen.
+
+![Fakkel](/Fakkel.gif)
