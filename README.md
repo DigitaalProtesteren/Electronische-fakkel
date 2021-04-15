@@ -17,4 +17,16 @@
 
 ## Instructies
 
-![GitHub Logo](Matrix aansluitingen 2.jpg)
+Desoldeer de aansluiting voor data output (de manelijke connector) van het scherm, bewaar de connector.
+![Aansluitingen scherm](/MatrixAansluitingen.jpg)
+
+Soldeer de net verkregen connector aan de Arduino:
+* Rode draad op de 5V aansluiting.
+* Zwarte of witte draad op GND.
+* Groene draad op pin 6 (bij een ESP8266 of ESP32 sluit je de groene draad aan op pin 13 - D3).
+
+Soldeer eventueel de elektrolytische condensator op de losse rode en witte of rode en zwarte draad die van het scherm afkomt (in de afbeelding "Increase Voltage Wire genoemd). 
+
+LET OP, de condensator heeft een witte streepo of aanduiding die de negatieve kant aangeeft. Deze dient op de witte of zwarte draad aangesloten te worden, de andere kant van de condensator is voor de rode draad. Controleer of je de polariteit goed hebt aangesloten en isoleer de aansluitingen met ducttape.
+
+Sluit de Arduino aan op de computer en upload de sketch.
