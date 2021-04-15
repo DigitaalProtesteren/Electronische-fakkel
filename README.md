@@ -34,7 +34,7 @@ Soldeer eventueel de elektrolytische condensator op de losse rode en witte of ro
 
 LET OP, de condensator heeft een witte streepo of aanduiding die de negatieve kant aangeeft. Deze dient op de witte of zwarte draad aangesloten te worden, de andere kant van de condensator is voor de rode draad. Controleer of je de polariteit goed hebt aangesloten en isoleer de aansluitingen met ducttape.
 
-Sluit de Arduino aan op de computer en upload de sketch.
+Sluit de Arduino aan op de computer en upload de sketch (fakkel.ino).
 
 Maak van het scherm een rolletje (niet te strak) en plak met ducttape eventueel de arduino en de condensator aan de binnenkant vast. Een deel van het scherm zal hierdoor niet zichtbaar zijn maar dat maakt niet uit voor het effect. Bind tussen de lEDs een touwtje of draadje zodat het scherm een rolletje blijft.
 
