@@ -22,7 +22,7 @@ Een electronische fakkel voor een fakkeloptocht.
 
 ## Instructies
 
-Desoldeer de aansluiting voor data output (de manelijke connector) van het scherm, bewaar de connector.
+Desoldeer de aansluiting voor data output (de mannelijke connector) van het scherm maar bewaar de connector, die wordt later hergebruikt.
 ![Aansluitingen scherm](/MatrixAansluiting.jpg)
 
 Soldeer de net verkregen connector aan de Arduino:
