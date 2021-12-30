@@ -51,8 +51,11 @@ In de onderste houder kan je vervolgens iets maken om de fakkel op vast te zette
 Pro tip:
 In plaats van een powerbank kan je ook een IKEA batterij en een DC/DC omvormer gebruiken, bijvoorbeeld de Braunit:
  * https://www.ikea.com/nl/nl/p/braunit-batterijpakket-10433258/
-In combinatie met een goedkope DC/DC omvormer, verkrijgbaar bij de volgende webshops:
 
+In combinatie met een goedkope DC/DC omvormer, bijvoorbeeld verkrijgbaar bij de volgende webshops:
+ * https://nl.aliexpress.com/item/32880983608.html
+ * https://www.hobbyelectronica.nl/product/lm2596s-dc-dc-regelbare-step-down/
+ * https://www.amazon.nl/Allayu-converter-Step-Down-Verstelbare-Converter/dp/B09GY1GZHK/ref=sr_1_3_sspa
+ * https://www.tinytronics.nl/shop/nl/power/spanningsconverters/buck-(step-down)-converters/mini-dc-dc-verstelbare-step-down-buck-converter-0.5a-mp2307
 
-
-
+Voor de batterij kan je een houder printen, op Thingsverse is een mooie houder te vinden (https://cdn.thingiverse.com/assets/b0/ff/df/dc/c7/Battery_constraint.stl). Je kan de print na 1-1,5 cm afbreken. In plaats van de officiële connector (https://nl.aliexpress.com/item/4000332107587.html) kan je ook gewoon twee stukje metaal vouwen en met hotglue vastzetten (soldeer eerst de draadjes eraan vast ander smelt de lijm door de soldeerbout).
