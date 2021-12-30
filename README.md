@@ -62,7 +62,8 @@ In combinatie met een goedkope DC/DC omvormer, bijvoorbeeld verkrijgbaar bij de 
  * https://www.amazon.nl/Allayu-converter-Step-Down-Verstelbare-Converter/dp/B09GY1GZHK/ref=sr_1_3_sspa
  * https://www.tinytronics.nl/shop/nl/power/spanningsconverters/buck-(step-down)-converters/mini-dc-dc-verstelbare-step-down-buck-converter-0.5a-mp2307
 
-Voor de batterij kan je een houder printen, op Thingsverse is een mooie houder te vinden (https://cdn.thingiverse.com/assets/b0/ff/df/dc/c7/Battery_constraint.stl). Je kan de print na 1-1,5 cm afbreken. In plaats van de officiële connector (https://nl.aliexpress.com/item/4000332107587.html) kan je ook gewoon twee stukjes metaal pakken die tussen de contacten van de batterij passen:
+Voor de batterij kan je een houder printen, op Thingsverse is een mooie houder te vinden (https://cdn.thingiverse.com/assets/b0/ff/df/dc/c7/Battery_constraint.stl). Je kan de print eventueel na 1-2 cm afbreken, veel meer heb je niet echt nodig.
+In plaats van de officiële connector (https://nl.aliexpress.com/item/4000332107587.html) kan je ook gewoon twee stukjes metaal pakken die tussen de contacten van de batterij passen:
  * Knip twee stukje metaal uit van ongeveer 10 x 5 mm.
  * Vouw de stukjes over de lengte in een hoek van 90 graden.
  * Knip uit de houder het plastic weg wat voor de batterijcontacten zit, laat de zijkanten zitten.
