@@ -44,11 +44,13 @@ Plak het geheel met ducttape vast op een (bamboe)stokje. Zorg dat de stok niet t
 
 ## Optionele houder
 
-Optioneel kan je een houder printen, door in het midden een bout en een moer met hotglue vast te zetten kan je ze op elkaar vastdraaien, in de rand kan je dan de matrix vastklemmen. Tip: plak de matrix in de onderste (die met het doorlopende gat) houder vast met wat stukjes ducttape, de uiteinden overlappen een paar millimeter zodat het een geheel wordt.
+Optioneel kan je een houder printen (bestand Fakkel V2.stl), door in het midden een bout en in de andere helft een moer met hotglue vast te zetten kan je ze op elkaar vastdraaien, in de rand kan je dan de matrix vastklemmen. Tip: plak de matrix in de onderste (die met het doorlopende gat) houder vast met wat stukjes ducttape, de uiteinden overlappen een paar millimeter zodat het een geheel wordt.
 
 In de onderste houder kan je vervolgens iets maken om de fakkel op vast te zetten.
 
 <img src="https://github.com/DigitaalProtesteren/Electronische-fakkel/blob/main/Fakkelhouder.jpg?raw=true" alt="Fakkelhouder" width="250"/>
+
+Let op: Als je dit doet zorg er dan voor dat je electronica voldoende afgeschermd is zodat je geen kortsluiting kan krijgen als een deel per ongeluk tegen de bout aan komt. Je kan dit doen door bijvoorbeeld  een stukje ducttape op de onderdelen te plakken.
 
 ## Optionele batterij
 In plaats van een powerbank kan je ook een IKEA batterij en een DC/DC omvormer gebruiken, bijvoorbeeld de Braunit:
