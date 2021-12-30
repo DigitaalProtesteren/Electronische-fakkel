@@ -48,7 +48,7 @@ Optioneel kan je een houder printen, door in het midden een bout en een moer met
 
 In de onderste houder kan je vervolgens iets maken om de fakkel op vast te zetten.
 
-![Fakkelhouder](/Fakkel houder.jpg)
+![Fakkelhouder](/Fakkelhouder.jpg)
 
 ## Optionele batterij
 In plaats van een powerbank kan je ook een IKEA batterij en een DC/DC omvormer gebruiken, bijvoorbeeld de Braunit:
