@@ -48,7 +48,7 @@ Optioneel kan je een houder printen, door in het midden een bout en een moer met
 
 In de onderste houder kan je vervolgens iets maken om de fakkel op vast te zetten.
 
-![Fakkelhouder](/Fakkelhouder.jpg)
+![Fakkelhouder](/Fakkel houder.jpg)
 
 ## Optionele batterij
 In plaats van een powerbank kan je ook een IKEA batterij en een DC/DC omvormer gebruiken, bijvoorbeeld de Braunit:
@@ -67,3 +67,5 @@ Voor de batterij kan je een houder printen, op Thingsverse is een mooie houder t
  * Soldeer aan beide stukjes metaal een draadje.
  * Plaats de batterij in de houder en plaats de stukjes metaal zodanig dat ze contact maken met de uiterste twee contacten van de batterij.
  * Lijm de stukjes metaal vast met hotglue (let op dat je geen lijm op de batterij krijgt).
+
+![Batterijhouder](/Batterijhouder.jpg)
