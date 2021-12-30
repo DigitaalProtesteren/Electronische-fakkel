@@ -50,7 +50,7 @@ In de onderste houder kan je vervolgens iets maken om de fakkel op vast te zette
 
 <img src="https://github.com/DigitaalProtesteren/Electronische-fakkel/blob/main/Fakkelhouder.jpg?raw=true" alt="Fakkelhouder" width="250"/>
 
-Let op: Als je dit doet zorg er dan voor dat je electronica voldoende afgeschermd is zodat je geen kortsluiting kan krijgen als een deel per ongeluk tegen de bout aan komt. Je kan dit doen door bijvoorbeeld  een stukje ducttape op de onderdelen te plakken.
+**Let op: Als je dit doet zorg er dan voor dat je electronica voldoende afgeschermd is zodat je geen kortsluiting kan krijgen als een deel per ongeluk tegen de bout aan komt. Je kan dit doen door bijvoorbeeld  een stukje ducttape op de onderdelen te plakken.**
 
 ## Optionele batterij
 In plaats van een powerbank kan je ook een IKEA batterij en een DC/DC omvormer gebruiken, bijvoorbeeld de Braunit:
