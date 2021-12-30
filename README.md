@@ -67,7 +67,7 @@ In plaats van de officiële connector (https://nl.aliexpress.com/item/4000332107
  * Knip twee stukje metaal uit van ongeveer 10 x 5 mm.
  * Vouw de stukjes over de lengte in een hoek van 90 graden.
  * Knip uit de houder het plastic weg wat voor de batterijcontacten zit, laat de zijkanten zitten.
- * Soldeer aan beide stukjes metaal een draadje.
+ * Soldeer aan beide stukjes metaal een draadje. (Niet vergeten anders smelt de hotglue door je soldeerbout.)
  * Plaats de batterij in de houder en plaats de stukjes metaal zodanig dat ze contact maken met de uiterste twee contacten van de batterij.
  * Lijm de stukjes metaal vast met hotglue (let op dat je geen lijm op de batterij krijgt).
 
