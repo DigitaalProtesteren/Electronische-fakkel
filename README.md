@@ -68,4 +68,4 @@ Voor de batterij kan je een houder printen, op Thingsverse is een mooie houder t
  * Plaats de batterij in de houder en plaats de stukjes metaal zodanig dat ze contact maken met de uiterste twee contacten van de batterij.
  * Lijm de stukjes metaal vast met hotglue (let op dat je geen lijm op de batterij krijgt).
 
-![Batterijhouder](/Batterijhouder.jpg)
+<img src="https://github.com/DigitaalProtesteren/Electronische-fakkel/blob/main/Batterijhouder.jpg?raw=true" alt="Batterijhouder" width="250"/>
