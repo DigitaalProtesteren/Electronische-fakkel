@@ -41,3 +41,10 @@ Maak van het scherm een rolletje (niet te strak) en plak met ducttape eventueel 
 Plak het geheel met ducttape vast op een (bamboe)stokje. Zorg dat de stok niet te zwaar of stevig is om inbeslagname te voorkomen anders kunnen de instanties de stok zien als een slagwapen.
 
 ![Fakkel](/Fakkel.gif)
+
+## Optioneel houder
+
+Optioneel kan je een houder printen, door in het midden een bout en een moer met hotglue vast te zetten kan je ze op elkaar vastdraaien, in de rand kan je dan de matrix vastklemmen. Tip: plak de matrix in de onderste (die met het doorlopende gat) houder vast met wat stukjes ducttape, de uiteinden overlappen een paar millimeter zodat het een geheel wordt.
+
+In de onderste houder kan je vervolgens iets maken om de fakkel op vast te zetten.
+
