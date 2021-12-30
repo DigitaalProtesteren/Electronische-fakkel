@@ -48,3 +48,11 @@ Optioneel kan je een houder printen, door in het midden een bout en een moer met
 
 In de onderste houder kan je vervolgens iets maken om de fakkel op vast te zetten.
 
+Pro tip:
+In plaats van een powerbank kan je ook een IKEA batterij en een DC/DC omvormer gebruiken, bijvoorbeeld de Braunit:
+ * https://www.ikea.com/nl/nl/p/braunit-batterijpakket-10433258/
+In combinatie met een goedkope DC/DC omvormer, verkrijgbaar bij de volgende webshops:
+
+
+
+
